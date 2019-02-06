@@ -19,4 +19,4 @@ When making a branch to fix issues:
 * How to merge branches into master
 * How to delete branches after an issue/pr is fixed.
 
-Note: We are unable to finish this project because Sadman got locked out of his github. Too many password attempts. From here on out, the team is not TEAMAC.
+Note: We are unable to finish this project because Sadman got locked out of his github. Too many password attempts. From here on out, the team is now TEAM_AC.
