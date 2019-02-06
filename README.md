@@ -14,3 +14,7 @@ While making new issues we learned:
 * how to create a new issue on Github.
 * what information is expected to be given when opening an issue on a project.
 
+When making a branch to fix issues:
+* We learned how to navigate branches
+* How to merge branches into master
+* How to delete branches after an issue/pr is fixed.
